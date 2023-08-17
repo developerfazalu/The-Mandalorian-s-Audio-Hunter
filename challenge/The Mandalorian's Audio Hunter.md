@@ -46,4 +46,17 @@ Open Sonic Visualizer app and open the wav file from the zip file that you have 
 
 ![](assets/images/1.png)
 
+Step 3.
+Go to Layer > Add Spectrogram > All Channel Mixed 
+
+![](assets/images/2.png)
+
+Step 4.
+Go to Colour and make that to : White on Black
+ 
+![](assets/images/3.png)
+
+
+You can see the flag below now May the force be with you : ) 
+
 
