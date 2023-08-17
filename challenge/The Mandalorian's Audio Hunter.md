@@ -2,7 +2,7 @@
 
 
 
-<img src="assets/images/htb.jpg" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">The Mandalorian's Audio Hunter</font>
+<img src="assets/images/htb.jpg" style="width:350px;margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">The Mandalorian's Audio Hunter</font>
 
 ​		17<sup>th</sup> August 2023
 
