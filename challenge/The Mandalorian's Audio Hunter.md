@@ -38,6 +38,12 @@ I created a CTF challenge by converting a flag image into a WAV audio file. Firs
 
 
 # Solver
+Step 1.
+First Download the .zip file that consist the .wav file 
 
+Step 2.
+Open Sonic Visualizer app and open the wav file from the zip file that you have downloaded 
+
+![](assets/images/1.png)
 
 
